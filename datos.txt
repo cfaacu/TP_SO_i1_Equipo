@@ -1,3 +1,7 @@
 BETA Nombre: Patricio Orce
 BETA IP: 192.168.0.101
 BETA Hs: 22:21
+
+GAMMA Nombre: Ian Sibikousky
+GAMMA IP: 192.168.0.210
+GAMMA Hs: 22:23
