@@ -1,1 +1,3 @@
-.asd hols
+BETA Nombre: Patricio Orce
+BETA IP: 192.168.0.101
+BETA Hs: 22:21
